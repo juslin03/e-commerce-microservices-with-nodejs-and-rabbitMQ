@@ -1,0 +1,7 @@
+POST http://localhost:7070/api/v1/auth/register HTTP/1.1
+
+{
+    "name": "Juslin",
+    "email": "komenan.komenan0@gmail.com",
+    "password": "juslin1234"
+}
